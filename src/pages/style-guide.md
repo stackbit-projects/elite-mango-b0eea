@@ -1,5 +1,5 @@
 ---
-title: Style Guidee
+title: Style Guide
 template: page
 ---
 
